@@ -1,0 +1,10 @@
+data/
+.venv/
+venv/
+venu/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Large model files (>100MB, use Git LFS or download separately)
+models/distilbert/model.safetensors

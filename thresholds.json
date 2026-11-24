@@ -1,0 +1,26 @@
+{
+  "toxic": {
+    "review": 0.4452,
+    "hide": 0.9499
+  },
+  "severe_toxic": {
+    "review": 0.4941,
+    "hide": 0.9704
+  },
+  "obscene": {
+    "review": 0.6223,
+    "hide": 0.981
+  },
+  "threat": {
+    "review": 0.0415,
+    "hide": 0.9832
+  },
+  "insult": {
+    "review": 0.4999,
+    "hide": 0.988
+  },
+  "identity_hate": {
+    "review": 0.0777,
+    "hide": 0.988
+  }
+}
